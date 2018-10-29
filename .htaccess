@@ -1,0 +1,4 @@
+ErrorDocument 404 http://localhost/challenge/404.html
+# Turn Rewrite Engine On
+RewriteEngine on
+RewriteRule ^home$ home_page.php [NC,L]
