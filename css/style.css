@@ -1409,7 +1409,7 @@ ul#additional_links li:after {
 }
 .hero_single.version_2 {
   height: 620px;
-  background: #222 url(../img/gov.jpg) center center no-repeat;
+  background: #222 url(../img/Home/day.jpg) center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3940,7 +3940,7 @@ a.btn_search_mobile.map_view {
   }
 }
 .hero_in.shop_detail {
-  height: 550px;
+  height: 350px;
 }
 @media (max-width: 767px) {
   .hero_in.shop_detail {
@@ -3948,7 +3948,7 @@ a.btn_search_mobile.map_view {
   }
 }
 .hero_in.shop_detail:before {
-  background: url(../img/hero_in_shop_detail.jpg) center center no-repeat;
+  background: url(../img/details/inst.jpg) center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -4708,7 +4708,7 @@ ul.menu_list li h6 span {
 }
 ul.menu_list li .thumb {
   width: 100px;
-  height: 100px;
+  height: 80px;
   position: absolute;
   left: 0;
   top: 0;

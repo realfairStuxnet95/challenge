@@ -26,6 +26,7 @@
 			<!-- /main_categories -->
 			<?php include 'App/Views/Home/recent_news.php'; ?>
 			<div class="container margin_60_35">
+				<?php include 'App/Views/Home/sectors.php'; ?>
 				<?php include 'App/Views/Home/popular_services.php'; ?>
 				<!-- /row -->
 				<?php include 'App/Views/Home/first_ads.php'; ?>
@@ -38,6 +39,8 @@
 			<?php include 'App/Views/Home/how_works.php'; ?>
 			<!--/call_section-->
 			<?php include 'App/Views/Home/app_section.php'; ?>
+			<?php include 'App/Views/Home/videos_section.php'; ?>
+			<?php include 'App/Views/Home/grid.php'; ?>
 			<!-- /container -->
 		</main>
 		<!-- /main -->
@@ -52,16 +55,13 @@
 		</div>
 		<form>
 			<div class="sign-in-wrapper">
-				<a href="#0" class="social_bt facebook">Login with Facebook</a>
-				<a href="#0" class="social_bt google">Login with Google</a>
-				<div class="divider"><span>Or</span></div>
 				<div class="form-group">
-					<label>Email</label>
-					<input type="email" class="form-control" name="email" id="email">
-					<i class="icon_mail_alt"></i>
+					<label>Phone Number</label>
+					<input type="phone" class="form-control" name="phone" id="phone">
+					<i class="icon_phone"></i>
 				</div>
 				<div class="form-group">
-					<label>Password</label>
+					<label>Access Code</label>
 					<input type="password" class="form-control" name="password" id="password" value="">
 					<i class="icon_lock_alt"></i>
 				</div>
@@ -75,18 +75,6 @@
 					<div class="float-right mt-1"><a id="forgot" href="javascript:void(0);">Forgot Password?</a></div>
 				</div>
 				<div class="text-center"><input type="submit" value="Log In" class="btn_1 full-width"></div>
-				<div class="text-center">
-					Don’t have an account? <a href="register.html">Sign up</a>
-				</div>
-				<div id="forgot_pw">
-					<div class="form-group">
-						<label>Please confirm login email below</label>
-						<input type="email" class="form-control" name="email_forgot" id="email_forgot">
-						<i class="icon_mail_alt"></i>
-					</div>
-					<p>You will receive an email containing a link allowing you to reset your password to a new preferred one.</p>
-					<div class="text-center"><input type="submit" value="Reset Password" class="btn_1"></div>
-				</div>
 			</div>
 		</form>
 		<!--form -->
@@ -102,6 +90,7 @@
 	
 	<!-- SPECIFIC SCRIPTS -->
 	<script src="js/animated_canvas_min.js"></script>
-
+	<script src="js/main.js"></script>
+	<script src="js/switcher.js"></script>
 </body>
 </html>

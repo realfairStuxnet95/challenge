@@ -1,26 +1,19 @@
 <form method="post" action="grid-listings-filterscol.html">
 	<div class="row no-gutters custom-search-input-2">
-		<div class="col-lg-4">
+		<div class="col-lg-7">
 			<div class="form-group">
 				<input class="form-control" type="text" placeholder="What are you looking for...">
 				<i class="icon_search"></i>
 			</div>
 		</div>
 		<div class="col-lg-3">
-			<div class="form-group">
-				<input class="form-control" type="text" placeholder="Where">
-				<i class="icon_pin_alt"></i>
-			</div>
-		</div>
-		<div class="col-lg-3">
 			<select class="wide">
 				<option>All Categories</option>	
-				<option>Shops</option>
-				<option>Hotels</option>
-				<option>Restaurants</option>
-				<option>Bars</option>
-				<option>Events</option>
-				<option>Fitness</option>
+				<option>Institution</option>
+				<option>Services</option>
+				<option>System</option>
+				<option>Category</option>
+				<option>Sector</option>
 			</select>
 		</div>
 		<div class="col-lg-2">
