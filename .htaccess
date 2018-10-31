@@ -3,3 +3,4 @@ ErrorDocument 404 http://localhost/challenge/404.html
 RewriteEngine on
 RewriteRule ^home$ home_page.php [NC,L]
 RewriteRule ^institution$ institution_page.php [NC,L]
+RewriteRule ^result$ search_result.php [NC,L]

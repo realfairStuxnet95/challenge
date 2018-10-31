@@ -1,4 +1,4 @@
-<form method="post" action="grid-listings-filterscol.html">
+<form method="post" action="result">
 	<div class="row no-gutters custom-search-input-2">
 		<div class="col-lg-7">
 			<div class="form-group">
