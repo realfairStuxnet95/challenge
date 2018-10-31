@@ -23,6 +23,34 @@
 			<?php 
 			include 'App/Views/Home/main_categories.php';
 			?>
+			<div id="visit_rwanda" class="col-lg-2" style="min-height: 200px;background: #fff;position: absolute;left: 0;z-index: 2;">
+				<img src="img/Home/visit.jpg"  class="img-responsive" alt="visit rwanda" style="max-width: 100%;">
+				<div class="panel-group">
+				  <div class="panel panel-default">
+				    <div class="panel-heading">
+				      <h4 class="panel-title">
+				        <center>
+				        	<a data-toggle="collapse" href="#collapse1">
+				        		Visit Rwanda
+				        	</a>
+				        </center>
+				      </h4>
+				    </div>
+				    <center>
+					    <div id="collapse1" class="panel-collapse collapse">
+					      <div class="panel-body">
+					      	Rwanda has an excellent investment climate, a robust and pro-business government, a fast growing economy and access to markets across East Africa.<br />
+					      	<a href="#" class="btn_1 rounded">Learn More.</a>
+					      </div>
+					    </div>
+				    </center>
+				  </div>
+				</div>
+			</div>
+			<div id="twitter_feeds" class="col-lg-2" style="background-color:#fff;min-height: 200px;position: absolute;right: 10px;height: 40vh;overflow: auto;z-index: 2;">
+				<h5>Latest Tweets Updates</h5>
+				<a class="twitter-timeline" href="https://twitter.com/RwandaGov?ref_src=twsrc%5Etfw">Tweets by RwandaGov</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
 			<!-- /main_categories -->
 			<?php include 'App/Views/Home/recent_news.php'; ?>
 			<div class="container margin_60_35">
