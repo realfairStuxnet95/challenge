@@ -4,3 +4,4 @@ RewriteEngine on
 RewriteRule ^home$ home_page.php [NC,L]
 RewriteRule ^institution$ institution_page.php [NC,L]
 RewriteRule ^result$ search_result.php [NC,L]
+RewriteRule ^news$ blog_news.php [NC,L]

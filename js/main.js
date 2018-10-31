@@ -1,6 +1,9 @@
 $(document).ready(function(){
 	var object=$(".hero_single.version_2");
 	myFunction(object);
+	$("#btn_close").click(function(){
+		$("#visit_rwanda").fadeOut();
+	});
 });
 var counter=0;
 var images=["a.jpg","b.jpg","c.jpg","d.jpg"];

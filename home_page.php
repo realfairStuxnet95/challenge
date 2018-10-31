@@ -24,6 +24,7 @@
 			include 'App/Views/Home/main_categories.php';
 			?>
 			<div id="visit_rwanda" class="col-lg-2" style="min-height: 200px;background: #fff;position: absolute;left: 0;z-index: 2;">
+				<button id="btn_close" style="background: #FFF;border: none;float: right;color:red;cursor: pointer;">X</button>
 				<img src="img/Home/visit.jpg"  class="img-responsive" alt="visit rwanda" style="max-width: 100%;">
 				<div class="panel-group">
 				  <div class="panel panel-default">

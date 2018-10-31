@@ -88,7 +88,7 @@
 		</li>
 		<li>
 			<span>
-				<a href="#0">News & Updates</a>
+				<a href="news">News & Updates</a>
 			</span>
 		</li>
 	</ul>
