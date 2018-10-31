@@ -7,7 +7,7 @@
 				<input type="text" name="name_review" id="name_review" placeholder="" class="form-control">
 			</div>
 			<div class="form-group col-md-6">
-				<label>Email *</label>
+				<label>Email /Phone number*</label>
 				<input type="email" name="email_review" id="email_review" class="form-control">
 			</div>
 			<div class="form-group col-md-12">

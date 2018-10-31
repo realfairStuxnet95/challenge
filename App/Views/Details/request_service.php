@@ -1,7 +1,7 @@
 <aside class="col-lg-4" id="sidebar">
 	<div class="box_detail booking">
 		<div class="price">
-			<h5 class="d-inline">Request Online Service</h5>
+			<h5 class="d-inline">Request Appointment</h5>
 			<div class="score"><strong>Online</strong></div>
 		</div>
 		<div id="message-contact-detail"></div>

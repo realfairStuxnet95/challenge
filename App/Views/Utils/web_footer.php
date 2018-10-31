@@ -12,7 +12,8 @@
 				</a>
 				<div class="collapse show" id="collapse_ft_1">
 					<ul class="links">
-						<li><a href="#0">About us</a></li>
+						<li><a href="home">Home</a></li>
+						<li><a href="help">About us</a></li>
 						<li><a href="#0">Faq</a></li>
 						<li><a href="#0">Help</a></li>
 						<li><a href="#0">My account</a></li>
@@ -31,12 +32,12 @@
 				</a>
 				<div class="collapse show" id="collapse_ft_2">
 					<ul class="links">
-						<li><a href="#0">Ministries</a></li>
-						<li><a href="#0">Public Institutions</a></li>
-						<li><a href="#0">Online Systems</a></li>
-						<li><a href="#0">Services</a></li>
-						<li><a href="#0">Visit Rwanda</a></li>
-						<li><a href="#0">Tourism</a></li>
+						<li><a href="insitution">Ministries</a></li>
+						<li><a href="insitution">Public Institutions</a></li>
+						<li><a href="insitution">Online Systems</a></li>
+						<li><a href="insitution">Services</a></li>
+						<li><a href="insitution">Visit Rwanda</a></li>
+						<li><a href="insitution">Tourism</a></li>
 					</ul>
 				</div>
 			</div>

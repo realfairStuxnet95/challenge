@@ -7,7 +7,7 @@
 		</li>
 		<li>
 			<span>
-				<a href="#">About Portal</a>
+				<a href="help">About Portal</a>
 			</span>
 		</li>
 		<li><span><a href="#0">Institutions</a></span>
@@ -67,10 +67,10 @@
 		</li>
 		<li><span><a href="#0">Online Systems</a></span>
 			<ul>
-				<li><a href="#">Irembo Web Portal</a></li>
-				<li><a href="#">E-procurement System</a></li>
-				<li><a href="#">E-filling</a></li>
-				<li><a href="#">E-taxation</a></li>
+				<li><a href="https://irembo.gov.rw/rolportal/web/rol" target="_blank">Irembo Web Portal</a></li>
+				<li><a href="http://www.umucyo.gov.rw/index.do" target="_blank">E-procurement System</a></li>
+				<li><a href="https://etax.rra.gov.rw/" target="_blank">E-filling</a></li>
+				<li><a href="https://etax.rra.gov.rw/" target="_blank">E-taxation</a></li>
 				<li><a href="#">View More</a></li>
 			</ul>
 		</li>

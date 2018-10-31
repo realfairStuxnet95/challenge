@@ -16,6 +16,7 @@
                         <?php include 'App/Views/Details/description.php'; ?>
                         <?php //include 'App/Views/Details/about_us.php'; ?>
 						<?php include 'App/Views/Details/reviews.php'; ?>
+						<?php include 'App/Views/Details/service.php'; ?>
 						<!-- /section -->
 						<hr>
                         <?php include 'App/Views/Details/contact.php'; ?>
