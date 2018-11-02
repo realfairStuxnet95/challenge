@@ -56,7 +56,7 @@
 		<li><span><a href="#0">Services</a></span>
 			<ul>
 				<li><a href="#">A - Z Services Listing</a></li>
-				<li><a href="#">Birth Certificates</a></li>
+				<li><a href="https://irembo.gov.rw/rolportal/web/minloc/birthcert" target="_blank">Birth Certificates</a></li>
 				<li><a href="#">Mutuelle</a></li>
 				<li><a href="#">Driving License Test</a></li>
 				<li><a href="#">Rwanda Revenue Taxing</a></li>

@@ -11,8 +11,8 @@
 				<figure>
 					<img src="img/Home/inst/1.jpg" alt="" style="width: 100%;">
 					<div class="info">
-						<small>122 Locations</small>
-						<h3>Shops</h3>
+						<small>Ministry of foreign affairs & cooperation</small>
+						<h3>MINAFET</h3>
 					</div>
 				</figure>
 			</a>
@@ -23,8 +23,8 @@
 				<figure>
 					<img src="img/Home/inst/2.jpg" alt="" style="width: 100%;">
 					<div class="info">
-						<small>245 Locations</small>
-						<h3>Hotels</h3>
+						<small>Gov of Rwanda</small>
+						<h3>GOV.RW</h3>
 					</div>
 				</figure>
 			</a>
@@ -35,8 +35,8 @@
 				<figure>
 					<img src="img/Home/inst/3.jpg" alt="" style="width: 100%;">
 					<div class="info">
-						<small>95 Locations</small>
-						<h3>Restaurants</h3>
+						<small>Rwanda Development Board</small>
+						<h3>RDB</h3>
 					</div>
 				</figure>
 			</a>
@@ -47,8 +47,8 @@
 				<figure>
 					<img src="img/Home/inst/4.jpg" alt="" style="width: 100%;">
 					<div class="info">
-						<small>123 Locations</small>
-						<h3>Bars</h3>
+						<small>Remarkable Rwanda</small>
+						<h3>Rwanda Tourism</h3>
 					</div>
 				</figure>
 			</a>

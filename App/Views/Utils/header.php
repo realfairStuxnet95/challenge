@@ -7,8 +7,8 @@ $query=substr($string,$firstIndex+1,strlen($string));
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="SPARKER - Premium directory and listings template by Ansonika.">
-    <meta name="author" content="Ansonika">
+    <meta name="description" content="Kizalab Government Web Portal Access all Government informations and services from your handy Device.">
+    <meta name="author" content="Kizalab">
     <title>
         <?php 
         if($query=="news"){

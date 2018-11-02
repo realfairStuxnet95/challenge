@@ -6,7 +6,7 @@
 </div>
 <div class="row add_bottom_30">
 	<div class="col-lg-3 col-sm-6">
-		<a href="detail-hotel.html" class="grid_item small">
+		<a href="https://irembo.gov.rw/rolportal/web/rol" class="grid_item small" target="_blank">
 			<figure>
 				<img src="img/photos/irembo.png" alt="">
 				<div class="info">
@@ -16,7 +16,7 @@
 		</a>
 	</div>
 	<div class="col-lg-3 col-sm-6">
-		<a href="detail-hotel.html" class="grid_item small">
+		<a href="https://www.visitrwanda.com/" class="grid_item small" target="_blank">
 			<figure>
 				<img src="img/photos/visit.png" alt="">
 				<div class="info">
@@ -26,7 +26,7 @@
 		</a>
 	</div>
 	<div class="col-lg-3 col-sm-6">
-		<a href="detail-hotel.html" class="grid_item small">
+		<a href="#" class="grid_item small">
 			<figure>
 				<img src="img/photos/made.jpg" alt="">
 				<div class="info">
@@ -36,7 +36,7 @@
 		</a>
 	</div>
 	<div class="col-lg-3 col-sm-6">
-		<a href="detail-hotel.html" class="grid_item small">
+		<a href="https://www.youthconnektafrica.org/index" class="grid_item small" target="_blank">
 			<figure>
 				<img src="img/photos/youth.png" alt="">
 				<div class="info">
