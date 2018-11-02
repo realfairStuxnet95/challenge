@@ -56,10 +56,18 @@
 		<li><span><a href="#0">Services</a></span>
 			<ul>
 				<li><a href="#">A - Z Services Listing</a></li>
-				<li><a href="https://irembo.gov.rw/rolportal/web/minloc/birthcert" target="_blank">Birth Certificates</a></li>
-				<li><a href="#">Mutuelle</a></li>
-				<li><a href="#">Driving License Test</a></li>
-				<li><a href="#">Rwanda Revenue Taxing</a></li>
+				<li>
+					<a href="https://irembo.gov.rw/rolportal/web/minloc/birthcert" target="_blank">Birth Certificates</a>
+				</li>
+				<li>
+					<a href="https://irembo.gov.rw/rolportal/web/rssb/cbhi" target="_blank">Mutuelle</a>
+				</li>
+				<li>
+					<a href="https://irembo.gov.rw/rolportal/web/rnp/dritheorytest" target="_blank">Driving License Test</a>
+				</li>
+				<li>
+					<a href="https://www.rra.gov.rw/" target="_blank">Rwanda Revenue Taxing</a>
+				</li>
 				<li><a href="#">Land Registration</a></li>
 				<li><a href="#">National ID Application</a></li>
 				<li><a href="#">View More</a></li>
@@ -79,11 +87,12 @@
 				<a href="#0">Destinations</a>
 			</span>
 			<ul>
-				<li><a href="#">Visit Rwanda</a></li>
-				<li><a href="#">Rwanda Tourism</a></li>
-				<li><a href="#">Investing in Rwanda</a></li>
-				<li><a href="#">National Parks</a></li>
-				<li><a href="#">FUture cities</a></li>
+				<li><a href="https://www.visitrwanda.com/" target="_blank">Visit Rwanda</a></li>
+				<li>
+					<a href="http://rdb.rw/tourism/" target="_blank">Rwanda Tourism</a>
+				</li>
+				<li><a href="http://rdb.rw/invest/">Investing in Rwanda</a></li>
+				<li><a href="https://www.visitrwanda.com/">National Parks</a></li>
 			</ul>
 		</li>
 		<li>
